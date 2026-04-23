@@ -50,13 +50,13 @@ The manager interacts with the system:
 > "Analyze all new Golden Visa leads and prioritize based on investment capacity, urgency, and eligibility."
 
 ---
+## 🖥️ Live System Preview
 
-## 🖥️ SARG Interface — Real System
+View the real SARG Golden Visa system interface:
 
-Below is a real interface used for Golden Visa client intake and AI-assisted evaluation:
+👉 https://sites.google.com/view/theagenticeconomy/english
 
-![SARG Golden Visa System](../../../assets/sarg-golden-visa-ui.png)
-
+> This is a real working system used for client intake and AI-assisted evaluation.
 ---
 
 ### What this system handles:
