@@ -55,15 +55,17 @@ The manager interacts with the system:
 
 Below is a real interface used for Golden Visa client intake and AI-assisted evaluation:
 
-![SARG Golden Visa System](assetssarg-golden-visa-ui.png.png)
+![SARG Golden Visa System](../../../assets/sarg-golden-visa-ui.png)
+
+---
+
 ### What this system handles:
 
-- Client registration (name, nationality, contact details)  
-- Investment tier classification  
-- Document upload and validation  
-- AI-powered analysis trigger  
-- Centralized dashboard for decision-making  
-
+- Client registration (name, nationality, contact details)
+- Investment tier classification
+- Document upload and validation
+- AI-powered analysis trigger
+- Centralized dashboard for decision-making
 ---
 
 ## 🔹 Smart Layer (Intent Interface)
