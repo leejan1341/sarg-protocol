@@ -55,8 +55,7 @@ The manager interacts with the system:
 
 Below is a real interface used for Golden Visa client intake and AI-assisted evaluation:
 
-![SARG Golden Visa System](../../assets/sarg-golden-visa-ui.png)
-
+![SARG Golden Visa System](assetssarg-golden-visa-ui.png.png)
 ### What this system handles:
 
 - Client registration (name, nationality, contact details)  
