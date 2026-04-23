@@ -96,7 +96,6 @@ To:
 > Making strategic decisions based on clear insights  
 
 ---
-
 ## 🔗 SARG Value
 
 This use case demonstrates how SARG:
@@ -104,5 +103,22 @@ This use case demonstrates how SARG:
 - Transforms unstructured data into decisions  
 - Automates operational complexity  
 - Keeps full control in the hands of the manager  
+
+---
+
+## 📚 Further Reading
+
+This use case is part of a broader framework explored in:
+
+- *The Agentic Executive* — by Jalil Modirkhazeni  
+
+Available on Amazon:
+
+- US: https://a.co/d/01VeBwPi  
+- Europe: https://amzn.eu/d/0edLoCeY  
+- Asia: https://amzn.asia/d/0awsoR4i  
+
+More about the Agentic Economy:  
+https://sites.google.com/view/theagenticeconomy/english
 
 ---
