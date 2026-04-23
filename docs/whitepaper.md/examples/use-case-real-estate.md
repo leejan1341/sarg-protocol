@@ -115,7 +115,8 @@ This use case is part of a broader framework explored in:
 Available on Amazon:
 
 - US: https://a.co/d/01VeBwPi  
-- Europe: https://amzn.eu/d/0edLoCeY  
+- Europe: https://amzn.eu/d/0edLoCeY
+- 🇪🇸 Español: https://a.co/d/0bmtwSSw  
 - Asia: https://amzn.asia/d/0awsoR4i  
 
 More about the Agentic Economy:  
